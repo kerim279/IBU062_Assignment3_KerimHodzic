@@ -20,6 +20,8 @@ PC0 (Model: PC-PT)
     IP Adress: 168.90.0.3
 PC1 (Model: PC-PT)
     IP Adress: 168.90.0.5
+PC3 (Model: PC-PT)
+    IP Address: 168.90.0.6
 
 -Switch2:
 Server1 (Model: Server-PT)
@@ -27,4 +29,6 @@ Server1 (Model: Server-PT)
 Server2 (Model: Server-PT)
     IP Adress: 210.3.14.2
 PC2 (Model: PC-PT)
-    IP Adress: 168.90.0.5
+    IP Adress: 210.3.14.4
+PC4 (Model: PC-PT)
+    IP Address: 210.3.14.5
